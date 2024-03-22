@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alcatraz _Prison_Break_Logic_Game", "Alcatraz _Prison_Break_Logic_Game\Alcatraz _Prison_Break_Logic_Game.csproj", "{78F97DD8-606A-4A23-900E-38BFBB5AF733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F97DD8-606A-4A23-900E-38BFBB5AF733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F97DD8-606A-4A23-900E-38BFBB5AF733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F97DD8-606A-4A23-900E-38BFBB5AF733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F97DD8-606A-4A23-900E-38BFBB5AF733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0286225D-B633-4D85-9B92-6033666E1DB5}
+	EndGlobalSection
+EndGlobal
